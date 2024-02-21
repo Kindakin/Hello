@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kinda</h1>
 <h3 align="center">Web developer</h3>
 
+- 🔭 I’m currently working on **The snake game**
+
+- 👨‍💻 All of my projects are available at [GitHub profile](GitHub profile)
+
+- 📫 How to reach me **via LinkedIn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kinda hamzeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinda hamzeh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
