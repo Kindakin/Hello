@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kinda</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on **The snake game**
+- 🔭 I’m currently working on **small projects**
 
 - 👨‍💻 All of my projects are available at [GitHub profile](GitHub profile)
 
